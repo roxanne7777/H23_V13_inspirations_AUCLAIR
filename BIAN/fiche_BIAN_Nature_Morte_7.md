@@ -25,7 +25,7 @@ L’œuvre fait appel au contenant autant qu'au contenu ; les composantes élect
 ### Type d'installation et mise en espace
 Il s'agit d'une oeuvre contemplative qui était installée en plein milieu d'une pièce ouverte, non loin d'une autre oeuvre volumineuse. Plusieurs écrans étaient empilés au sol formant presque un cercle, et deux autres écrans étaient suspendus du plafond juste au-dessus. L'écran principal fait dos au spectateur. 
 
-
+medias/bian_nature_morte_circuits.jpg
 
 ### Composantes et techniques
 
