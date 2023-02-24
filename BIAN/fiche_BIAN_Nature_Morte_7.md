@@ -16,3 +16,4 @@ Par Baron Lanteigne
 crédit photo: https://elektramontreal.ca
 
 ### Description de l'oeuvre
+![Cartel](medias/bian1_nature_morte_cartel.jpg)
