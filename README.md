@@ -6,3 +6,5 @@
 - **BIAN**, qui contient les informations liées à l'oeuvre Nature Morte 7 (TP1A)
 - **Mycélium**, qui contient les informations concernant les projets des finissants de TIM (TP1B)
 - **Pink Floyd**, qui contient les informations concernant l'exposition Their Mortal Remains (TP1B-C)
+- **À ajouter** (12 avril), oeuvre retenue sortie
+- **À ajouter** Conférences
