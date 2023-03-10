@@ -52,6 +52,8 @@
 
 ### Installation en cours
 
+### Schéma de l'installation prévue
+
 ## Zodie-Gal 
 ### Créatrice
 - [Abdanor Yara](https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/journal_1.html)
