@@ -13,7 +13,7 @@
 
 ### Schéma de l'installation prévue
 
-## EDRIA 
+## EDRIA
 ### Créateurs et créatrice 
 - Elwin Durand
 - [Loic Delorme](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/journal_2.html)
@@ -41,7 +41,7 @@
 
 ### Schéma de l'installation prévue
 
-## Boucler la boucle 
+## Nexum
 ### Créateurs et créatrice 
 - [Sébastien Reilly](https://tim-montmorency.com/2023/projets/Boucler-la-boucle/docs/web/journal_1.html)
 - [Sabrina Laforest](https://tim-montmorency.com/2023/projets/Boucler-la-boucle/docs/web/journal_2.html)
@@ -59,6 +59,7 @@
 - [Abdanor Yara](https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/journal_1.html)
 
 ### Lien avec le thème Mycélium
+Zodie-Gal fait le lien avec le thème Mycélium en faisant une analogie entre une jeune fille en crise d'adolescence et la nature qui doit composer avec le monde urbain. Tous deux sont des éléments vivants en évolution dans un contexte difficile, qui doivent trouver comment survivre.
 
 ### Installation en cours
 
