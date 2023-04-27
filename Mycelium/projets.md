@@ -28,6 +28,7 @@
 ### Installation en cours
 
 ### Schéma de l'installation prévue
+![Schéma Edria](meias/schema_edria.png)
 
 ## LumaSol 
 ### Créateur et créatrices 
@@ -41,6 +42,7 @@
 ### Installation en cours
 
 ### Schéma de l'installation prévue
+![Schéma Lumasol](medias/
 
 ## Nexum
 ### Créateurs et créatrice 
