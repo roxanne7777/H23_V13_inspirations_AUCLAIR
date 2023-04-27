@@ -28,7 +28,7 @@
 ### Installation en cours
 
 ### Schéma de l'installation prévue
-![Schéma Edria](meias/schema_edria.png)
+![Schéma Edria](medias/schema_edria.png)
 
 ## LumaSol 
 ### Créateur et créatrices 
