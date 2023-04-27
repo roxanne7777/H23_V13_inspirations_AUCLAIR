@@ -42,7 +42,7 @@
 ### Installation en cours
 
 ### Schéma de l'installation prévue
-![Schéma Lumasol](medias/
+![Schéma Lumasol](medias/schema_lumasol.png)
 
 ## Nexum
 ### Créateurs et créatrice 
@@ -56,6 +56,7 @@
 ### Installation en cours
 
 ### Schéma de l'installation prévue
+![Schéma Nexum](medias/schema_bouclerlaboucle.png)
 
 ## Zodie-Gal 
 ### Créatrice
@@ -67,4 +68,5 @@ Zodie-Gal fait le lien avec le thème Mycélium en faisant une analogie entre un
 ### Installation en cours
 
 ### Schéma de l'installation prévue
+![Schéma Zodie-Gal](medias/schema_zodiegal.png)
 
