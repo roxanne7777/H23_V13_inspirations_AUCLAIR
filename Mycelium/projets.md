@@ -70,3 +70,11 @@ Zodie-Gal fait le lien avec le thème Mycélium en faisant une analogie entre un
 ### Schéma de l'installation prévue
 ![Schéma Zodie-Gal](medias/schema_zodiegal.png)
 
+## Cours incontournables
+
+## Composante technologique
+
+## Ordre de préférence des projets
+
+## Ressenti anticipé
+
