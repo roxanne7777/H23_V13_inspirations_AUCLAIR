@@ -12,6 +12,7 @@
 ### Installation en cours
 
 ### Schéma de l'installation prévue
+![Schéma Echomarine](medias/.jpg)
 
 ## EDRIA
 ### Créateurs et créatrice 
