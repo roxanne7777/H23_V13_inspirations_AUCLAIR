@@ -1,1 +1,1 @@
-contient les photos de l'exposition Hockey au Centre des Sciences
+Ce dossier contient les photos de l'exposition Hockey au Centre des Sciences
