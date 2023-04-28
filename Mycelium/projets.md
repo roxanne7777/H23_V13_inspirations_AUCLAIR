@@ -80,11 +80,11 @@ Zodie-Gal fait le lien avec le thème Mycélium en faisant une analogie entre un
 ## Composante technologique
 
 ## Ordre de préférence des projets
-1- Edria: Leur logo est celui que je préfère et l'idée est originale. 
-2- LumaSol: Je trouve intéressant l'association de plusieurs concepts: l'exercice physique, l'interaction humaine par le mouvement qui a un impact sur l'environnement et qui permet également la recharge du téléphone, les couleurs des lumières qui représentent le cycle des saisons.
-3- Nexum
-4- Echomarine
-5- Zodie-Gal: J'ai trouvé que ce projet était le plus difficile à associer au thème général. D'un point de vue personnel, je n'aime pas vraiment le style graphique des dessins. Le style est uniforme mais je trouve difficile de bien identifier les éléments représentés. Je trouvais également le récit plus ou moins clair. Par contre, malgré le manque de clarté général, la créatrice expliquait bien ses concepts.
+1. Edria: Leur logo est celui que je préfère et l'idée est originale. 
+2. LumaSol: Je trouve intéressant l'association de plusieurs concepts: l'exercice physique, l'interaction humaine par le mouvement qui a un impact sur l'environnement et qui permet également la recharge du téléphone, les couleurs des lumières qui représentent le cycle des saisons.
+3. Nexum
+4. Echomarine
+5. Zodie-Gal: J'ai trouvé que ce projet était le plus difficile à associer au thème général. D'un point de vue personnel, je n'aime pas vraiment le style graphique des dessins. Le style est uniforme mais je trouve difficile de bien identifier les éléments représentés. Je trouvais également le récit plus ou moins clair. Par contre, malgré le manque de clarté général, la créatrice expliquait bien ses concepts.
 
 ## Ressenti anticipé
 
