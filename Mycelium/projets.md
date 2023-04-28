@@ -1,6 +1,6 @@
 # Mycélium 
 Voici de quelle façon les finissants en TIM décrivent leur projet: "Réseau de filaments essentiel à la vie d’un champignon, Mycélium est l’un des mots-clés de notre existence. Cette connexion immuable entre l’être humain et son écosystème, ainsi que ce désir inné de comprendre et d’être compris sont au cœur même de nos inspirations. Comment interagissons-nous avec notre environnement? Comment interagissons-nous avec la technologie? Comment interagissons-nous avec nous-mêmes? Ce réseau de filaments indescriptible est aussi ce qui nous rassemble à un seul et même endroit." ([Site TIM 2023](https://tim-montmorency.com/2023/))
-![Affiche](medias/mycelium_affiche_ext_04.jpg) ![Mycélium](medias/mycelium_affiche_ext_01.jpg) ![Projets](medias/mycelium_affiche_ext_03.jpg) ![Plan](medias/mycelium_affiche_ext_02.jpg)
+![Mycélium](medias/mycelium_affiche_ext_01.jpg) ![Projets](medias/mycelium_affiche_ext_03.jpg) ![Plan](medias/mycelium_affiche_ext_02.jpg)
 
 ## Echomarine 
 ### Créatrices
