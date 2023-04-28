@@ -1,4 +1,6 @@
 # Mycélium
+![Affiche](medias/mycelium_affiche_ext_04.jpg) 
+
 ### Lieu et type d'exposition
 # LumaSol
 ### Description de l'oeuvre
