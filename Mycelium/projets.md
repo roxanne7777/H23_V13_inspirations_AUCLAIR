@@ -1,4 +1,5 @@
 # Mycélium 
+Voici de quelle façon les finissants en TIM décrivent leur projet: "Réseau de filaments essentiel à la vie d’un champignon, Mycélium est l’un des mots-clés de notre existence. Cette connexion immuable entre l’être humain et son écosystème, ainsi que ce désir inné de comprendre et d’être compris sont au cœur même de nos inspirations. Comment interagissons-nous avec notre environnement? Comment interagissons-nous avec la technologie? Comment interagissons-nous avec nous-mêmes? Ce réseau de filaments indescriptible est aussi ce qui nous rassemble à un seul et même endroit." ([Site TIM 2023](https://tim-montmorency.com/2023/))
 
 ## Echomarine 
 ### Créatrices
@@ -8,6 +9,7 @@
 - [Maria Laura Coronel](https://tim-montmorency.com/2023/projets/Echomarine/docs/web/journal_4.html)
 
 ### Lien avec le thème Mycélium 
+Comme le projet a pour objectif de sensibiliser les participants aux enjeux de la vie sous-marine, le lien pourrait se trouver dans la connexion des humains avec un écosystème et la façon dont ils interagissent avec l'environnement. 
 
 ### Installation en cours
 
@@ -24,6 +26,7 @@
 - [Jean-Christophe Zephir](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/journal_6.html)
 
 ### Lien avec le thème Mycélium 
+Le lien avec le thème est clairement énoncé dans l'intention de départ du projet: "rassembler autour d'une sculpture représentant la dualité entre la technologie et la nature." ([Edria](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/preproduction.html#intention-de-d%C3%A9part))
 
 ### Installation en cours
 
@@ -38,6 +41,7 @@
 - [Pénélope Morrisson](https://tim-montmorency.com/2023/projets/LumaSol/docs/web/journal_4.html)
 
 ### Lien avec le thème Mycélium 
+Ce projet utilise l'interaction de l'utilisateur pour illustrer l'impact de l'action humaine sur l'environnement. 
 
 ### Installation en cours
 
@@ -52,6 +56,7 @@
 - [Maxime Des Lauriers](https://tim-montmorency.com/2023/projets/Boucler-la-boucle/docs/web/journal_4.html)
 
 ### Lien avec le thème Mycélium
+parcours interactif permet la connexion entre l'humain et son espace
 
 ### Installation en cours
 
