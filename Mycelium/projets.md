@@ -86,6 +86,7 @@ Dans la grille de cours que je suis actuellement (par opposition à la nouvelle 
 
 ## Composante technologique
 Parmi les composantes électroniques utilisées pour le projet LumaSol se trouve un relais. "Un relais permet de contrôler l'ouverture et la fermeture d'un circuit électrique grâce à un signal électrique provenant d'un autre circuit. L'avantage apporté par l'emploi d'un relais est qu'il permet d'isoler le circuit de commande et celui commandé. Aucun contact électrique n'existe donc entre les deux circuits, ce qui permet de coupler un circuit à haute tension avec un circuit à basse tension." [AlloProf](https://www.alloprof.qc.ca/fr/eleves/bv/sciences/les-autres-fonctions-electriques-s1558)
+![Relais](medias/lumasol_instal_relais.jpg)
 
 ## Ordre de préférence des projets
 1. Edria: Leur logo est celui que je préfère et l'idée est originale. 
