@@ -97,4 +97,8 @@ Parmi les composantes électroniques utilisées pour le projet LumaSol se trouve
 5. Zodie-Gal: J'ai trouvé que ce projet était le plus difficile à associer au thème général. D'un point de vue personnel, je n'aime pas vraiment le style graphique des dessins. Le style est uniforme mais je trouve difficile de bien identifier les éléments représentés. Je trouvais également le récit plus ou moins clair. Par contre, malgré le manque de clarté général, la créatrice expliquait bien ses concepts.
 
 ## Ressenti anticipé
-
+**Edria**: Avec le poteau central plus haut, j'imagine que ce sera encore plus amusant de tester les différentes interactions et leurs combinaisons. 
+**LumaSol**: C'est un projet qui fait activement participer l'utilisateur et je pense que j'apprécierai voir mon action donner un résultat concret et féérique à la fois.
+**Nexum**:
+**Echomarine**: L'installation semblait presque complétée, alors je pense que le ressenti ne changera pas beaucoup lors de la présentation officielle. C'est une ambiance calme, ludique, sereine et enveloppante.
+**Zodie-Gal**:
