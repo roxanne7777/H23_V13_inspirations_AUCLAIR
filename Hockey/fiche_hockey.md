@@ -21,6 +21,7 @@ Le dispositif multimédia est un support pédagogique puisqu'il permet de diffus
 ### Mise en espace
 (Croquis)
 
+
 ### Composantes et techniques
 - Écran tactile
 - Écran pour l'affichage des résultats 
@@ -35,7 +36,7 @@ Le dispositif multimédia est un support pédagogique puisqu'il permet de diffus
 - Compartiment pour l'écran tactile
 
 ### Expérience vécue
-Le visiteur est d'abord attiré vers le jeu par la luminosité de l'écran de résulat. 
+Le visiteur est d'abord attiré vers le jeu par la luminosité de l'écran de résulat, qui est le plus grand des deux. En se plaçant devant l'écran tactile, il peut lire l'écriteau explicatif qui se trouve sur le mur à la hauteur des yeux. L'utilisateur lis les questions et regarde les vidéo-supports sur l'écran tactile, puis choisit sa réponse en touchant l'écran à l'endroit approprié. Après chaque réponse, il peut voir sur l'écran de résultat à sa droite l'évolution de son joueur fictif à différents niveaux de performance. 
 
 ### Ce qui m'a plu
 ### Ce que je ferais autrement
