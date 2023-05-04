@@ -98,7 +98,11 @@ Parmi les composantes électroniques utilisées pour le projet LumaSol se trouve
 
 ## Ressenti anticipé
 **Edria**: Avec le poteau central plus haut, j'imagine que ce sera plus impressionnant et encore plus amusant de tester les différentes interactions et leurs combinaisons. 
+
 **LumaSol**: C'est un projet qui fait activement participer l'utilisateur et je pense que j'apprécierai voir mon action donner un résultat concret et féérique à la fois.
+
 **Nexum**: Je crois que ce sera une marche relaxante et enchanteresse, surtout le soir, avec les lumières et la trame sonore. Je crains que de devoir m'arrêter pour numériser les codes QR afin de voir les animations rompe un peu le rythme et donc l'aspect immersif de l'expérience. 
+
 **Echomarine**: L'installation semblait presque complétée, alors je pense que le ressenti ne changera pas beaucoup lors de la présentation officielle. C'est une ambiance calme, ludique, sereine et enveloppante.
+
 **Zodie-Gal**: Je me sens trop à l'étroit dans cet endroit, surtout quand plusieurs autres personnes sont présentes en même temps. J'espère que je pourrai tester le jeu seule et ainsi mieux m'identifier au personnage. 
