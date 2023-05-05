@@ -34,6 +34,8 @@ Il s'agit d'une installation contemplative.
 Le dispositif sert à la diffusion du patrimoine immatériel.
 
 ### Mise en espace
+![Croquis](medias/pinkfloyd_film_croquis.jpg)
+
 Dans un espace circulaire d'environ 30 mètres de diamètre, entouré de rideaux de scène noirs, un grand écran triple disposé en demi hexagone se trouvait suspendu près d'une paroi. Devant l'écran, deux bancs étaient placés l'un en arrière de l'autre à environ 10 mètres de distance. Diverses projections lumineuses animaient le sol.
 
 ### Composantes et techniques
