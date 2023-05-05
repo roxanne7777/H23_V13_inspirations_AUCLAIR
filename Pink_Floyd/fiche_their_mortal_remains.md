@@ -31,16 +31,33 @@ Comme dernière installation de l'exposition, une vidéo d'une dizaine de minute
 Il s'agit d'une installation contemplative.
 
 ### Fonction du dispositif
-
+Le dispositif sert à la diffusion du patrimoine immatériel.
 
 ### Mise en espace
+Dans un espace circulaire d'environ 30 mètres de diamètre, entouré de rideaux de scène noirs, un grand écran triple disposé en demi hexagone se trouvait suspendu près d'une paroi. Devant l'écran, deux bancs étaient placés l'un en arrière de l'autre à environ 10 mètres de distance. Diverses projections lumineuses animaient le sol.
+
 ### Composantes et techniques
+- Grand écran triple
+- Projecteur pour l'écran
+- Projecteur pour les projections au sol
+- Montage vidéo
+
 ### Éléments nécessaires à la mise en exposition
+- Rideaux
+- Haut-parleurs
+- Ancrages pour l'écran
+
 ### Expérience vécue
+Le visiteur arrive du côté gauche de la salle. Il voit les projections au sol et le film sur l'écran à sa gauche. Il se dirige vers le centre de l'espace, où il s'assoit sur l'un des bancs pour regarder la vidéo diffusée droit devant lui. Il peut ensuite sortir de la salle à droite.
+
 ### Ce qui m'a plu
 J'ai beaucoup aimé le choix de vidéo. Le fait que ce soit la dernière représentation et que les membres du groupe soient plus âgés conservait bien la chronologie du parcours et la cohérence de l'exposition. C'était agréable d'enfin entendre une chanson complète à un volume plus élévé. 
 
 ### Ce que je ferais autrement
+La vidéo aurait pu être plus longue et incorporer plus de chansons, même intégrer différents extraits d'autres vidéos présentés plus tôt dans l'exposition, afin de faire une réelle récapitulation de l'histoire du groupe en guise de conclusion. 
+
+De plus, malheureusement, si on avait besoin d'aller aux toilettes avant de commencer la visite de l'exposition, il fallait carrément traverser la salle de cette dernière installation. C'était décevant de se faire gâcher la surprise de la fin dès le début. Il est difficile d'ignorer un écran géant. De plus ça pouvait aussi déranger les gens qui regardaient déjà, car malgré les indications au sol, on ne savait pas trop vers où se diriger et on pouvait passer devant eux par mégarde. 
+
 ### Références
 https://www.mtl.org/en/experience/pink-floyd-exhibition-montreal
 
