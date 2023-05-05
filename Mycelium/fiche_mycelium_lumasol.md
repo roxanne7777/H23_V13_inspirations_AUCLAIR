@@ -22,7 +22,7 @@ Il s'agit d'une oeuvre interactive qui invite l'utilisateur à pédaler pour act
 ![En action](medias/lumasol_ext_marche.jpg) ([Page LumaSol](https://tim-montmorency.com/2023/projets/LumaSol/docs/web/preproduction.html))
 
 ### Mise en espace
-(Croquis)
+![Croquis](medias/lumasol_croquis.jpg)
 
 L'installation se trouve à l'extérieur du cégep, sur le bout de terrain triangulaire situé à environ 30 mètres en diagonale gauche de la porte 1, entre deux sentiers de pavé uni. Le vélo stationnaire fait dos au cégep et face à un arbre qui se trouve derrière un banc. Il y a environ 10 mètres entre le vélo et l'arbre. Six tubes lumineux sur pied sont placés de part et d'autre du vélo. Des haut-parleurs dirigés vers le vélo sont accrochés de chaque côté du dossier du banc. Des bandes de lumière LED entourent le tronc de l'arbre et des guirlandes d'ampoules sont installées dans ses branches.
 
