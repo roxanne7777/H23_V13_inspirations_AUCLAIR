@@ -19,7 +19,7 @@ Il s'agit d'une installation interactive de type jeu questionnaire.
 Le dispositif multimédia est un support pédagogique puisqu'il permet de diffuser des informations éducatives au sujet de la santé et de la performance des joueurs de hockey.
 
 ### Mise en espace
-(Croquis)
+![Croquis](medias/hockey_naissance_croquis.jpg)
 
 Le dispositif se trouve sur un mur dans la **Zone 4 - Le vestiaire des étoiles montantes** de l'exposition ([Centre des Sciences](https://www.centredessciencesdemontreal.com/exposition-temporaire/hockey-plus-rapide-que-jamais)). À la gauche de l'installation se trouve un autre mur perpendiculaire. L'écran tactile, disposé à 45 degrés dans un présentoir en métal, se trouve à environ un mètre du sol. Juste à sa droite, sur le mur, on retrouve l'écran de résultat. À environ 2 mètres à la droite de l'installation se trouve un autre dispositif au mur. 
 
