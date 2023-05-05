@@ -6,7 +6,7 @@
 - L'expérience entourant la vidéo diffusée
     - mise en espace
     - composantes
-    - type complatif/diffusion
+    - type contemplatif/diffusion
     - posture du visiteur
 - Appréciation et points à modifier, tant pour la vidéo que pour l'exposition en général
     - longueur de la vidéo
