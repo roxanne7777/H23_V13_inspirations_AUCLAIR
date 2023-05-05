@@ -43,7 +43,7 @@ Le visiteur est d'abord attiré vers le jeu par la luminosité de l'écran de r�
 J'ai aimé le principe d'un jeu éducatif qui incite également à vouloir avoir le meilleur résultat, en plus d'interpeller l'utilisateur avec le test de personnalité permettant de s'identifier à un joueur de hockey. Les différentes dimensions donnent de la substance au produit. Le jeu peut également plaire à une large tranche d'âge et avait une durée respectable permettant de garder le visiteur intéressé pendant assez longtemps.
 
 ### Ce que je ferais autrement
-La plupart des gens, moi inclue au premier abord, semblaient penser que l'écran de résultat était tactile, et même qu'il s'agissait d'un jeu supplémentaire. La disposition était peut-être un peu étrange. La différence de grandeur des écrans contribuait au manque d'unicité et à la confusion du public.
+La plupart des gens, moi inclue au premier abord, semblait penser que l'écran de résultat était tactile, et même qu'il s'agissait d'un jeu supplémentaire. La disposition était peut-être un peu étrange. La différence de grandeur des écrans contribuait au manque d'unicité et à la confusion du public.
 
 ### Références
 https://www.centredessciencesdemontreal.com/exposition-temporaire/hockey-plus-rapide-que-jamais
